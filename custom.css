@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+.dropshadow {
+	text-shadow: 2px 2px 2px #000;
+}
+
+.icons {
+	font-size: 3em !important;
+}
+
+	header.major {
+		margin: 0;
+	}
+
+.travelbox {
+	
+	text-align: center; !important;
+}
+
+.contact {
+	width: 100%;
+	text-align: center; !important;
+}
+
+.navPanelToggle {
+	padding-top: 0.5em;
+	padding-left: 0.5em;
+	height: 2.75em;
+	width: 4em;
+}
