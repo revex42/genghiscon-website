@@ -13,7 +13,7 @@
 	}
 
 .travelbox {
-	
+	clear: none !important;
 	text-align: center; !important;
 }
 
