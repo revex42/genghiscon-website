@@ -36,3 +36,44 @@
 						</div>
 					</div>
 				</section>
+
+
+
+
+
+For the end of the con:
+
+			<!-- Two -->
+				<section id="one" class="wrapper style2">
+					<div class="container 60%">
+						<div class="row 200%">
+							<div class="6u 12u$(medium) travelbox">
+								<header class="major"> 
+									<h2>Car</h2>
+								</header>
+								<p>TBA.</p>
+							</div>
+							
+							<div class="6u 12u$(medium) travelbox">
+								<header class="major">
+									<h2>Bus</h2>
+								</header>
+								<p>TBA.</p>
+							</div>
+							
+							<div class="6u$ 12u$(medium) travelbox">
+								<header class="major">
+									<h2>Eat</h2>
+								</header>
+								<p>TBA.</p>
+                            </div>
+								
+							<div class="6u 12u$(medium) travelbox">
+								<header class="major">
+									<h2>Stay</h2>
+								</header>
+								<p>TBA.</p>
+							</div>
+						</div>
+					</div>
+				</section>
